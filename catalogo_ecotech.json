@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Panel Solar Eco 400",
+        "marca": "EcoPower",
+        "precio": 250000,
+        "stock": 15,
+        "tipo": "Panel solar",
+        "potencia_watts": 400,
+        "eficiencia": "21%"
+    },
+    {
+        "nombre": "Panel Solar Eco 550",
+        "marca": "GreenTech",
+        "precio": 320000,
+        "stock": 10,
+        "tipo": "Panel solar",
+        "potencia_watts": 550,
+        "eficiencia": "23%"
+    }
+]
